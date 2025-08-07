@@ -45,5 +45,14 @@ This portfolio demonstrates my ability to:
 - Build readiness for roles such as Security Analyst, SOC Analyst, or Incident Responder
 
 ## 📁 Repository Structure (Sample)
+
+## ✍️ Professional Statement
+
+As a dedicated and driven cybersecurity student, I am passionate about defending digital environments and safeguarding critical infrastructure. Through the Google Cybersecurity Certificate program, I have gained hands-on experience in areas such as vulnerability assessment, network analysis, incident response, and Linux system management.
+
+With a strong foundation in ethical hacking and system security, I aim to apply these skills in high-stakes environments such as federal agencies or military operations. My long-term goal is to contribute to national security by detecting, preventing, and responding to cyber threats.
+
+I thrive in investigative, analytical roles and am continuously building both technical and communication skills to become an effective and trustworthy cybersecurity professional. My work reflects attention to detail, commitment to ethical standards, and a relentless drive to learn and adapt in this fast-evolving field.
+
 cd YOUR_REPO_NAME
 
