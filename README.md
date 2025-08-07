@@ -44,7 +44,7 @@ This portfolio demonstrates my ability to:
 - Communicate clearly through technical documentation and reporting
 - Build readiness for roles such as Security Analyst, SOC Analyst, or Incident Responder
 
-## 📁 Repository Structure (Sample)
+## 📁 Repository Structure
 
 ## ✍️ Professional Statement
 
@@ -52,7 +52,7 @@ As a dedicated and driven cybersecurity student, I am passionate about defending
 
 With a strong foundation in ethical hacking and system security, I aim to apply these skills in high-stakes environments such as federal agencies or military operations. My long-term goal is to contribute to national security by detecting, preventing, and responding to cyber threats.
 
-I thrive in investigative, analytical roles and am continuously building both technical and communication skills to become an effective and trustworthy cybersecurity professional. My work reflects attention to detail, commitment to ethical standards, and a relentless drive to learn and adapt in this fast-evolving field.
+I thrive in investigative and analytical roles, continuously building both technical and communication skills to become an effective and trustworthy cybersecurity professional. My work demonstrates attention to detail, a commitment to ethical standards, and a relentless drive to learn and adapt in this rapidly evolving field.
 
 cd YOUR_REPO_NAME
 
