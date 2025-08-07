@@ -1,26 +1,49 @@
 # Cybersecurity5
 
-Welcome to my Cybersecurity repository! This collection showcases hands-on projects and tools I've developed to explore and strengthen key cybersecurity concepts including ethical hacking, secure coding, encryption, vulnerability analysis, and more.
+# 🛡️ Google Cybersecurity Certificate Portfolio
 
-## 🧠 What You'll Find Here
+Welcome to my cybersecurity portfolio! This repository contains hands-on projects developed as part of the **Google Cybersecurity Certificate**. Each project showcases practical skills in network security, incident response, vulnerability assessment, Linux systems, and more.
 
-This repository includes:
+## 📂 What's Inside
 
-- 🔍 **Vulnerability Scanning** – Scripts to identify common security flaws in web applications or local systems.
-- 🔐 **Encryption & Hashing** – Implementations of symmetric/asymmetric encryption (e.g., AES, RSA) and hashing algorithms (e.g., SHA-256, bcrypt).
-- 🧬 **Malware Analysis** – Static and dynamic analysis of malware samples (in a safe, isolated environment).
-- 💣 **Exploitation Scripts** – Custom proof-of-concept (PoC) exploits for educational purposes.
-- 📊 **Log Analysis & Detection** – Python scripts for parsing system logs and detecting suspicious activity.
-- 🚨 **SIEM Simulations** – Small-scale Security Information and Event Management setups for log aggregation and alerting.
-- 🛡️ **Firewall & IDS Testing** – Configurations and tests involving firewall rules or open-source intrusion detection systems like Snort.
+This repository highlights work completed across the following topics:
 
-> ⚠️ **Disclaimer**: This content is intended strictly for educational and ethical use only. Do not use any code here to target or attack systems you do not own or have explicit permission to test.
+- ✍️ **Professional Statement**  
+  A concise summary of my career goals, skills, and passion for cybersecurity.
 
-## 💻 Getting Started
+- 🧪 **Security Audit**  
+  A detailed audit of a sample system, identifying risks and proposing mitigation strategies.
 
-Clone the repo:
+- 🌐 **Network Structure & Security Analysis**  
+  Diagrams and evaluations of network configurations, identifying strengths and potential weaknesses.
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+- 🐧 **Linux Permissions Management**  
+  Use of Linux commands to manage file permissions and secure user access.
+
+- 🧮 **SQL Filtering & Query Analysis**  
+  Application of filters to SQL queries in a security context to manage access and data integrity.
+
+- 🔎 **Small Business Vulnerability Report**  
+  A realistic assessment identifying vulnerabilities within a fictional small business and recommendations for improving security posture.
+
+- 📝 **Incident Handler’s Journal**  
+  Documentation of a simulated cybersecurity incident using industry-standard incident response practices.
+
+- 📄 **File Parsing for Security Tasks**  
+  Scripts and processes to import and analyze security-relevant data from text files.
+
+- 📃 **Cybersecurity Resume**  
+  A polished and up-to-date resume tailored for cybersecurity roles.
+
+## 🎯 Goals
+
+This portfolio demonstrates my ability to:
+
+- Apply foundational cybersecurity principles in realistic scenarios
+- Use industry tools and best practices to analyze and secure systems
+- Communicate clearly through technical documentation and reporting
+- Build readiness for roles such as Security Analyst, SOC Analyst, or Incident Responder
+
+## 📁 Repository Structure (Sample)
 cd YOUR_REPO_NAME
 
