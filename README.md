@@ -54,5 +54,3 @@ With a strong foundation in ethical hacking and system security, I aim to apply 
 
 I thrive in investigative and analytical roles, continuously building both technical and communication skills to become an effective and trustworthy cybersecurity professional. My work demonstrates attention to detail, a commitment to ethical standards, and a relentless drive to learn and adapt in this rapidly evolving field.
 
-cd YOUR_REPO_NAME
-
